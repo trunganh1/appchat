@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836278152932",
+    "firebase_url": "https://appchat-ltm-e743a.firebaseio.com",
+    "project_id": "appchat-ltm-e743a",
+    "storage_bucket": "appchat-ltm-e743a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836278152932:android:888e5e116e6e8852",
+        "android_client_info": {
+          "package_name": "com.ltm.android.chatappltm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836278152932-qb2g6qvl90ghv0c4vu9k67b4no4faan9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7IQKOtdDYKbH6iFX856dG-3d2XWqThQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
